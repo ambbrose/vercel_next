@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://localhost:3000/feedback</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/about</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/posts/new</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/posts/another</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/thank-you</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/tags/nextjs</loc><lastmod>2023-05-13T13:32:00.312Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/tags/react.js</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/1</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/2</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/3</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/4</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/5</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/6</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/7</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/8</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/9</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://localhost:3000/users/10</loc><lastmod>2023-05-13T13:32:00.313Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
